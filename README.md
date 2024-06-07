@@ -1,4 +1,9 @@
-# GS-python
+# GS- Computational Thinking With Python
+ Camila Feitosa RM:558808 
+ 
+ Gustavo Berlanga RM:555298
+ 
+ Vinicius Gardim RM:556013
 # Projeto Detector de Lixo usando YOLOv8 e Roboflow
 
 Este projeto consiste em um detector de lixo desenvolvido utilizando a técnica de deep learning com o modelo YOLOv8 e a plataforma Roboflow para treinamento e inferência. O detector é capaz de identificar objetos de lixo em imagens.
